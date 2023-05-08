@@ -17,5 +17,5 @@ numDay.
 26. Asking for the day and month of birth to show the sign.
 27. Asking for the entry of the base and the height of a quadrilateral, indicate if it is square or rectangle. For any of the two cases, show the perimeter and the surface of the
 figure.
-28. Show the discount from the sale that a store makes
-29. Request the entry of hospital birth data: day, month, year and sex (1-female 2-male). It shows the total of men, the total of women, the general total.
+28. Show the discount from the sale that a store makes.
+29. know if a year is a leap year.
